@@ -1,7 +1,7 @@
 # 1. Query ข้อมูลจาก DB แล้วจัดให้อยู่ในรูปแบบที่กำหนด
 ### 1.1 สร้างไฟล์ .env และกำหนดค่าต่างๆ
 ```dotenv
-MONGODB_URI=mongodb+srv://lohtester:MLjU7nEYl3Ek50NH@cluster0.tz5piwv.mongodb.net/
+MONGODB_URI=mongodb+srv://lohtester:MLjU7nEYl3Ek50NH@cluster0.knkingd.mongodb.net/tester
 ```
 
 ### 1.2 Query ข้อมูลจาก collections navigation แล้วจัดให้อยู่ในรูปแบบที่กำหนด ตัวอย่างรูปแบบข้อมูลที่ถูกจัดให้อยู่ในรูปแบบที่กำหนด อยุ่ในไฟล์ [navigation.json](./navigation.json)
